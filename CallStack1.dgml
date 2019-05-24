@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph DataVirtualized="True" Layout="Sugiyama" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@1 @2 Type=FormRegistrarEstudiante Member=(Name=FormRegistrarEstudiante_Load OverloadingParameters=[(@3 @4 Type=Object),(@3 @4 Type=EventArgs)]))" Category="CodeSchema_Method" Bounds="455.305,243.035,184.576666666667,23.2766666666666" CodeSchemaProperty_IsPrivate="True" CommonLabel="FormRegistrarEstudiante_Load" FunctionTypeFlags="Método" Label="FormRegistrarEstudiante_Load" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Users/folodonolo/Desktop/INF420-SistemaMatriculacion-master/sistemaRegistroEstudiantes/sistemaRegistroEstudiantes/FormRegistrarEstudiante.cs StartLineNumber=82 StartCharacterOffset=0 EndLineNumber=82 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 @2 Type=FormRegistrarEstudiante Member=manOmale)" Category="CodeSchema_Method" Bounds="377.473333333333,176.481666666667,88.24,23.2766666666667" CodeSchemaProperty_IsPublic="True" CommonLabel="manOmale" FunctionTypeFlags="Método" Label="manOmale" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Users/folodonolo/Desktop/INF420-SistemaMatriculacion-master/sistemaRegistroEstudiantes/sistemaRegistroEstudiantes/FormRegistrarEstudiante.cs StartLineNumber=67 StartCharacterOffset=0 EndLineNumber=67 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 @2 Type=MatriculacionBDEntities Member=(Name=SP_insertarEmpleadoOEstudiante OverloadingParameters=[@9,@10,@10,@10,@10,@10,@10,@10,@10,@10,@9,@10,@9,@10,@10,@10,@9,@9,@9]))" Category="CodeSchema_Method" Bounds="0,243.035,197.186666666667,23.2766666666666" CodeSchemaProperty_IsInternal="True" CommonLabel="SP_insertarEmpleadoOEstudiante" FunctionTypeFlags="Método" Label="SP_insertarEmpleadoOEstudiante" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Users/folodonolo/Desktop/INF420-SistemaMatriculacion-master/sistemaRegistroEstudiantes/sistemaRegistroEstudiantes/ModelMatriculacionBD.Context.cs StartLineNumber=134 StartCharacterOffset=0 EndLineNumber=134 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 @2 Type=Persona Member=.ctor)" Category="CodeSchema_Method" Bounds="272.29,176.481666666667,74.6066666666667,23.2766666666667" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CommonLabel="Persona" FunctionTypeFlags="Constructor" Label="Persona" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Users/folodonolo/Desktop/INF420-SistemaMatriculacion-master/sistemaRegistroEstudiantes/sistemaRegistroEstudiantes/Persona.cs StartLineNumber=16 StartCharacterOffset=0 EndLineNumber=16 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(Name=sistemaRegistroEstudiantes.MatriculacionBDEntities.SP_insertarEmpleadoOEstudiante @12 Type=int OverloadingParameters=[(@13 Name=dni),(@14 Name=primerNombre),(@14 Name=primerApellido),(@14 Name=segundoApellido),(@14 Name=fechaDeNacimiento),(@14 Name=sexo),(@14 Name=lugarDeNacimiento),(@14 Name=nacionalidad),(@14 Name=calle),(@14 Name=sector),(@13 Name=numeroRecidencia),(@14 Name=email),(@13 Name=codigoProvincia),(@14 Name=rne),(@14 Name=institutoDeProcedencia),(@14 Name=matricula),(@13 Name=codigoRecinto),(@13 Name=codigoCarrera)] IsUnresolved=True)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="228,243.035,197.186666666667,23.2766666666666" Label="SP_insertarEmpleadoOEstudiante" SourceLocation="(Assembly=file:///c:/Users/folodonolo/Desktop/INF420-SistemaMatriculacion-master/sistemaRegistroEstudiantes/sistemaRegistroEstudiantes/ModelMatriculacionBD.Context.cs StartLineNumber=128 StartCharacterOffset=0 EndLineNumber=128 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@11" Category="CodeSchema_Method" Bounds="518.145,54.9641666666666,58.8966666666665,23.2766666666667" CodeSchemaProperty_IsPrivate="True" CodeSchemaProperty_IsStatic="True" CommonLabel="Main" FunctionTypeFlags="Método" Label="Main" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Users/folodonolo/Desktop/INF420-SistemaMatriculacion-master/sistemaRegistroEstudiantes/sistemaRegistroEstudiantes/Program.cs StartLineNumber=18 StartCharacterOffset=0 EndLineNumber=18 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@5" Category="CodeSchema_Method" Bounds="496.173333333333,176.481666666667,102.84,23.2766666666666" CodeSchemaProperty_IsPrivate="True" CommonLabel="AbrirFormHija" FunctionTypeFlags="Método" Label="AbrirFormHija" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Users/folodonolo/Desktop/INF420-SistemaMatriculacion-master/sistemaRegistroEstudiantes/sistemaRegistroEstudiantes/ContenedorPrincipal.cs StartLineNumber=77 StartCharacterOffset=0 EndLineNumber=77 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@6" Category="CodeSchema_Method" Bounds="336.676666666667,121.5175,129.833333333333,23.2766666666667" CodeSchemaProperty_IsPrivate="True" CommonLabel="btnEnviarInfo_Click" FunctionTypeFlags="Método" Label="btnEnviarInfo_Click" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Users/folodonolo/Desktop/INF420-SistemaMatriculacion-master/sistemaRegistroEstudiantes/sistemaRegistroEstudiantes/FormRegistrarEstudiante.cs StartLineNumber=62 StartCharacterOffset=0 EndLineNumber=62 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@7" Category="CodeSchema_Method" Bounds="496.655,121.5175,101.876666666667,23.2766666666666" CodeSchemaProperty_IsPrivate="True" CommonLabel="button4_Click" FunctionTypeFlags="Método" Label="button4_Click" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Users/folodonolo/Desktop/INF420-SistemaMatriculacion-master/sistemaRegistroEstudiantes/sistemaRegistroEstudiantes/ContenedorPrincipal.cs StartLineNumber=86 StartCharacterOffset=0 EndLineNumber=86 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@8" Category="CodeSchema_Method" Bounds="77.7,176.481666666667,163.786666666667,23.2766666666667" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsStatic="True" CommonLabel="InsertarPersonaEstudiante" FunctionTypeFlags="Método" Label="InsertarPersonaEstudiante" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Users/folodonolo/Desktop/INF420-SistemaMatriculacion-master/sistemaRegistroEstudiantes/sistemaRegistroEstudiantes/UtilidadesBD.cs StartLineNumber=24 StartCharacterOffset=0 EndLineNumber=24 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="ExternalCodeRootNode" Category="ExternalCallStackEntry" Bounds="500.873333333333,0,93.4399999999999,23.2766666666667" Label="Código externo">
+      <Category Ref="CallStackEntry" />
+    </Node>
+  </Nodes>
+  <Links>
+    <Link Source="@11" Target="@6" Category="CallStackIndirectCall" Bounds="419.944244384766,75.3513793945313,98.2027893066406,39.8992614746094" Label="Código externo" LabelBounds="362.153333333333,93.2408333333333,73.4400000000001,13.2766666666666" />
+    <Link Source="@11" Target="@7" Category="CallStackIndirectCall" Bounds="547.593322753906,78.240837097168,0,34.2766647338867" Label="Código externo" LabelBounds="474.153333333333,93.2408333333333,73.44,13.2766666666666" />
+    <Link Source="@5" Target="(@1 @2 Type=FormRegistrarEstudiante Member=(Name=FormRegistrarEstudiante_Load OverloadingParameters=[(@3 @4 Type=Object),(@3 @4 Type=EventArgs)]))" Category="CallStackIndirectCall" Bounds="547.593322753906,199.758331298828,0,34.2766723632813" Label="Código externo" LabelBounds="474.153333333333,214.758333333333,73.4400000000002,13.2766666666666" />
+    <Link Source="@6" Target="(@1 @2 Type=FormRegistrarEstudiante Member=manOmale)" Category="CallStackDirectCall" Bounds="405.828216552734,144.794174194336,8.45278930664063,23.2299957275391" />
+    <Link Source="@6" Target="(@1 @2 Type=Persona Member=.ctor)" Category="CallStackDirectCall" Bounds="336.799957275391,144.794174194336,45.3129272460938,27.0715942382813" />
+    <Link Source="@6" Target="@8" Category="CallStackDirectCall" Bounds="219.611862182617,144.794174194336,130.73942565918,29.6941375732422" />
+    <Link Source="@7" Target="@5" Category="CallStackDirectCall" Bounds="547.593322753906,144.794174194336,0,22.6875" />
+    <Link Source="@8" Target="(@1 @2 Type=MatriculacionBDEntities Member=(Name=SP_insertarEmpleadoOEstudiante OverloadingParameters=[@9,@10,@10,@10,@10,@10,@10,@10,@10,@10,@9,@10,@9,@10,@10,@10,@9,@9,@9]))" Category="CallStackDirectCall" Bounds="115.341674804688,199.758331298828,33.5844421386719,36.6419219970703" />
+    <Link Source="@8" Target="(Name=sistemaRegistroEstudiantes.MatriculacionBDEntities.SP_insertarEmpleadoOEstudiante @12 Type=int OverloadingParameters=[(@13 Name=dni),(@14 Name=primerNombre),(@14 Name=primerApellido),(@14 Name=segundoApellido),(@14 Name=fechaDeNacimiento),(@14 Name=sexo),(@14 Name=lugarDeNacimiento),(@14 Name=nacionalidad),(@14 Name=calle),(@14 Name=sector),(@13 Name=numeroRecidencia),(@14 Name=email),(@13 Name=codigoProvincia),(@14 Name=rne),(@14 Name=institutoDeProcedencia),(@14 Name=matricula),(@13 Name=codigoRecinto),(@13 Name=codigoCarrera)] IsUnresolved=True)" Category="CallStackDirectCall" Bounds="188.796997070313,199.758331298828,100.232116699219,39.9447937011719" />
+    <Link Source="ExternalCodeRootNode" Target="@11" Category="CallStackIndirectCall" Bounds="547.593322753906,23.2766666412354,0,22.6875019073486" />
+  </Links>
+  <Categories>
+    <Category Id="CallStackDirectCall" Label="Llamada directa a la pila de llamadas" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Llamada directa a la pila de llamadas" OutgoingActionLabel="Llamada directa a la pila de llamadas" />
+    <Category Id="CallStackEntry" Label="Entrada de la pila de llamadas" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="Entrada de la pila de llamadas" />
+    <Category Id="CallStackIndirectCall" Label="Llamada indirecta a la pila de llamadas" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Llamada indirecta a la pila de llamadas" OutgoingActionLabel="Llamada indirecta a la pila de llamadas" />
+    <Category Id="CodeSchema_CallStackUnresolvedMethod" Label="Método sin resolver" CanBeDataDriven="True" DefaultAction="Microsoft.AllOutBoundLinks" IsProviderRoot="False" NavigationActionLabel="Método sin resolver" />
+    <Category Id="CodeSchema_Member" Label="Miembro" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="CodeSchema_Field" NavigationActionLabel="Miembros" />
+    <Category Id="CodeSchema_Method" Label="Método" BasedOn="CodeSchema_Member" CanBeDataDriven="True" DefaultAction="Link:Forward:CodeSchema_Calls" Icon="CodeSchema_Method" NavigationActionLabel="Métodos" />
+    <Category Id="CodeSchema_SourceLocation" Label="Ubicación de origen" Icon="File" />
+    <Category Id="ExternalCallStackEntry" Label="Entrada externa de la pila de llamadas" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="Entrada externa de la pila de llamadas" />
+  </Categories>
+  <Properties>
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsConstructor" Label="Constructor" Description="Marca para indicar que el método es un constructor." DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsInternal" Label="Interno" Description="Marca para indicar que el método es 'Internal'." DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPrivate" Label="Privado" Description="Marca para indicar que el ámbito es Private." DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPublic" Label="Público" Description="Marca para indicar que el ámbito es Public." DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsStatic" Label="Estático" Description="Marca para indicar que el miembro es estático." DataType="System.Boolean" />
+    <Property Id="CommonLabel" DataType="System.String" />
+    <Property Id="DataVirtualized" Label="Datos virtualizados" Description="Si es true, el gráfico puede contener nodos y vínculos que representan datos de los nodos o vínculos virtualizados (es decir, no creados realmente en el gráfico)." DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="Expression" DataType="System.String" />
+    <Property Id="FunctionTypeFlags" Label="FunctionTypeFlags" Description="FunctionTypeFlags" DataType="System.String" />
+    <Property Id="GroupLabel" DataType="System.String" />
+    <Property Id="Icon" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsEnabled" DataType="System.Boolean" />
+    <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
+    <Property Id="Label" Label="Etiqueta" Description="Etiqueta Displayable de un objeto Annotatable." DataType="System.String" />
+    <Property Id="LabelBounds" DataType="System.Windows.Rect" />
+    <Property Id="Language" Label="Lenguaje" Description="Lenguaje" DataType="System.String" />
+    <Property Id="Layout" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+    <Property Id="SourceLocation" Label="Número de línea de inicio" DataType="Microsoft.VisualStudio.GraphModel.CodeSchema.SourceLocation" />
+    <Property Id="TargetType" DataType="System.Type" />
+    <Property Id="Value" DataType="System.String" />
+    <Property Id="ValueLabel" DataType="System.String" />
+    <Property Id="Visibility" Label="Visibility" Description="Defines whether a node in the graph is visible or not" DataType="System.Windows.Visibility" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="Ensamblado" ValueType="Uri" />
+    <Name Id="IsUnresolved" Label="Sin resolver" ValueType="System.String" />
+    <Name Id="Member" Label="Miembro" ValueType="System.Object" />
+    <Name Id="Name" Label="Nombre" ValueType="System.String" />
+    <Name Id="Namespace" Label="Espacio de nombres" ValueType="System.String" />
+    <Name Id="OverloadingParameters" Label="Parámetro" ValueType="Microsoft.VisualStudio.GraphModel.GraphNodeIdCollection" Formatter="NameValueNoEscape" />
+    <Name Id="Type" Label="Tipo" ValueType="System.Object" />
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=$(7bbe4ed6-5053-42c6-8d5d-845e25150b0b.OutputPathUri)" />
+    <Alias n="2" Id="Namespace=sistemaRegistroEstudiantes" />
+    <Alias n="3" Uri="Assembly=$(FxReferenceAssembliesUri)/.NETFramework/v4.5/mscorlib.dll" />
+    <Alias n="4" Id="Namespace=System" />
+    <Alias n="5" Id="(@1 @2 Type=ContenedorPrincipal Member=(Name=AbrirFormHija OverloadingParameters=[(@3 @4 Type=Object)]))" />
+    <Alias n="6" Id="(@1 @2 Type=FormRegistrarEstudiante Member=(Name=btnEnviarInfo_Click OverloadingParameters=[(@3 @4 Type=Object),(@3 @4 Type=EventArgs)]))" />
+    <Alias n="7" Id="(@1 @2 Type=ContenedorPrincipal Member=(Name=button4_Click OverloadingParameters=[(@3 @4 Type=Object),(@3 @4 Type=EventArgs)]))" />
+    <Alias n="8" Id="(@1 @2 Type=UtilidadesBD Member=(Name=InsertarPersonaEstudiante OverloadingParameters=[(@1 @2 Type=Persona),(@1 @2 Type=Estudiante),(@1 @2 Type=TelefonoPersona)]))" />
+    <Alias n="9" Id="(@3 @4 Type=Int32)" />
+    <Alias n="10" Id="(@3 @4 Type=String)" />
+    <Alias n="11" Id="(@1 @2 Type=Program Member=Main)" />
+    <Alias n="12" Uri="Assembly=sistemaRegistroEstudiantes.exe" />
+    <Alias n="13" Id="Type=int?" />
+    <Alias n="14" Id="Type=string" />
+  </IdentifierAliases>
+  <Styles>
+    <Style TargetType="Link" GroupLabel="Current Call Stack Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CurrentCallStackCall')" />
+      <Setter Property="Stroke" Value="#FFD93701" />
+      <Setter Property="Weight" Value="1" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Call Stack Indirect Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CallStackIndirectCall')" />
+      <Setter Property="Stroke" Value="#FFB8B8B8" />
+      <Setter Property="StrokeDashArray" Value="4 1" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Call Stack Direct Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CallStackDirectCall')" />
+      <Setter Property="Stroke" Value="#FFB8B8B8" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="External And Current" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('ExternalCallStackEntry') And HasCategory('CurrentCallStackEntry')" />
+      <Setter Property="Background" Value="#FFFFF8F0" />
+      <Setter Property="Stroke" Value="#FFCE5100" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Nodo de la pila de llamadas actual" ValueLabel="Verdadero">
+      <Condition Expression="HasCategory('CurrentCallStackEntry') And !HasCategory('QueryResult')" />
+      <Setter Property="Background" Value="#FFFFE3C6" />
+      <Setter Property="Stroke" Value="#FFD93701" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Entrada externa de la pila de llamadas" ValueLabel="Verdadero">
+      <Condition Expression="HasCategory('ExternalCallStackEntry')" />
+      <Setter Property="Background" Value="#FFF7F7F7" />
+      <Setter Property="StrokeDashArray" Value="1 3" />
+      <Setter Property="Foreground" Value="#FFA5A5A5" />
+      <Setter Property="Stroke" Value="#FFA5A5A5" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Resultados" ValueLabel="Verdadero">
+      <Condition Expression="HasCategory('QueryResult')" />
+      <Setter Property="Background" Value="#FFBCFFBE" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Ensamblado" ValueLabel="Tiene categoría">
+      <Condition Expression="HasCategory('CodeSchema_Assembly')" />
+      <Setter Property="Background" Value="#FF094167" />
+      <Setter Property="Stroke" Value="#FF094167" />
+      <Setter Property="Icon" Value="CodeSchema_Assembly" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Espacio de nombres" ValueLabel="Tiene categoría">
+      <Condition Expression="HasCategory('CodeSchema_Namespace')" />
+      <Setter Property="Background" Value="#FF0E619A" />
+      <Setter Property="Stroke" Value="#FF0E619A" />
+      <Setter Property="Icon" Value="CodeSchema_Namespace" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Interfaz" ValueLabel="Tiene categoría">
+      <Condition Expression="HasCategory('CodeSchema_Interface')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Interface" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Struct" ValueLabel="Tiene categoría">
+      <Condition Expression="HasCategory('CodeSchema_Struct')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Struct" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enumeración" ValueLabel="Tiene categoría">
+      <Condition Expression="HasCategory('CodeSchema_Enum')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Enum" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Delegado" ValueLabel="Tiene categoría">
+      <Condition Expression="HasCategory('CodeSchema_Delegate')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Delegate" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Clase" ValueLabel="Tiene categoría">
+      <Condition Expression="HasCategory('CodeSchema_Type')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Class" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Propiedad" ValueLabel="Tiene categoría">
+      <Condition Expression="HasCategory('CodeSchema_Property')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Property" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Método" ValueLabel="Tiene categoría">
+      <Condition Expression="HasCategory('CodeSchema_Method') Or HasCategory('CodeSchema_CallStackUnresolvedMethod')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Method" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Evento" ValueLabel="Tiene categoría">
+      <Condition Expression="HasCategory('CodeSchema_Event')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Event" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="campo" ValueLabel="Tiene categoría">
+      <Condition Expression="HasCategory('CodeSchema_Field')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Field" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Out Parameter" ValueLabel="True">
+      <Condition Expression="CodeSchemaProperty_IsOut = 'True'" />
+      <Setter Property="Icon" Value="CodeSchema_OutParameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Parameter" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_Parameter')" />
+      <Setter Property="Icon" Value="CodeSchema_Parameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Local Variable" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_LocalExpression')" />
+      <Setter Property="Icon" Value="CodeSchema_LocalExpression" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Externos" ValueLabel="Tiene categoría">
+      <Condition Expression="HasCategory('Externals')" />
+      <Setter Property="Background" Value="#FF424242" />
+      <Setter Property="Stroke" Value="#FF424242" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Inherits From" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('InheritsFrom') And Target.HasCategory('CodeSchema_Class')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Implements" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('Implements') And Target.HasCategory('CodeSchema_Interface')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Field Read" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="Target.HasCategory('CodeSchema_Field') And HasCategory('CodeSchema_FieldRead')" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Comment Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="Source.HasCategory('Comment')" />
+      <Setter Property="Stroke" Value="#FFE5C365" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Cursor Location Changed" ValueLabel="Verdadero" Visibility="Hidden">
+      <Condition Expression="IsCursorLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Disabled Breakpoint Location Changed" ValueLabel="Verdadero" Visibility="Hidden">
+      <Condition Expression="DisabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enabled Breakpoint Location Changed" ValueLabel="Verdadero" Visibility="Hidden">
+      <Condition Expression="EnabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Instruction Pointer Location Changed" ValueLabel="Verdadero" Visibility="Hidden">
+      <Condition Expression="IsInstructionPointerLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Current Callstack Changed" ValueLabel="Verdadero" Visibility="Hidden">
+      <Condition Expression="IsCurrentCallstackFrame" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+  </Styles>
+  <Paths>
+    <Path Id="7bbe4ed6-5053-42c6-8d5d-845e25150b0b.OutputPathUri" Value="file:///C:/Users/folodonolo/Desktop/INF420-SistemaMatriculacion-master/sistemaRegistroEstudiantes/sistemaRegistroEstudiantes/bin/Debug/sistemaRegistroEstudiantes.exe" />
+    <Path Id="FxReferenceAssembliesUri" Value="file:///C:/Program Files/Reference Assemblies/Microsoft/Framework" />
+  </Paths>
+</DirectedGraph>
